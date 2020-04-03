@@ -1,4 +1,4 @@
-Description : contain methods that can be helpfull when performing statistic operation
+Description : contains methods that can be helpfull when performing statistic operations
 Methods: factorial(), combination(), bernouliTrial();
 Methods Description:
     factorial() : works just like the factorial in math  n*(n-1)*(n-2)...*1;
